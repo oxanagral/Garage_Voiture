@@ -34,6 +34,7 @@ public class Stationnement {
 	 */
 	private Date fin;
 
+
 	/**
 	 * Termine le stationnement en enregistrant la date de fin.
 	 */
